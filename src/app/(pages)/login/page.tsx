@@ -19,15 +19,6 @@ export default async function Login() {
   return (
     <section className={classes.login}>
       <div className={classes.heroImg}>
-        <Link href="/">
-          <Image
-            src="/logo-black.svg"
-            alt="logo"
-            width={250}
-            height={23}
-            className={classes.logo}
-          />
-        </Link>
       </div>
 
       <div className={classes.formWrapper}>
@@ -35,6 +26,15 @@ export default async function Login() {
           <RenderParams className={classes.params} />
 
           <div className={classes.formTitle}>
+            <Link href="/">
+              <Image
+                src="/logo-black.png"
+                alt="logo"
+                width={270}
+                height={53}
+                className={classes.logo}
+              />
+            </Link>
             <h3>Welcome</h3>
           </div>
 
