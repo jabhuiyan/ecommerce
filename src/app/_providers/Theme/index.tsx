@@ -45,11 +45,11 @@ export const ThemeProvider: React.FC<{ children?: React.ReactNode }> = ({ childr
       }
     }
 
-    document.documentElement.setAttribute('data-theme', themeToSet)
-    setThemeState(themeToSet)
+    document.documentElement.setAttribute('data-theme', 'light')
+    setThemeState('light')
   }, [])
 
-  return <ThemeContext.Provider value={{ theme, setTheme }}>{children}</ThemeContext.Provider>
+  return <ThemeContext.Provider value={{ theme: 'light', setTheme }}>{children}</ThemeContext.Provider>
 }
 
 export const useTheme = (): ThemeContextType => useContext(ThemeContext)
