@@ -5,6 +5,36 @@
 
 Check out the [demo](https://youtu.be/OeB-kHXq8Ic)
 
+-----------------------------------
+#### Login page
+![image](https://github.com/jabhuiyan/janjub-express/blob/main/Screenshots/janjub-login.png)
+
+#### Sign Up page
+![image](https://github.com/jabhuiyan/janjub-express/blob/main/Screenshots/janjub-createacc.png)
+
+#### Forgot Password page
+![image](https://github.com/jabhuiyan/janjub-express/blob/main/Screenshots/janjub-recover.png)
+
+#### Account page
+![image](https://github.com/jabhuiyan/janjub-express/blob/main/Screenshots/janjub-account.png)
+
+#### Shop
+![image](https://github.com/jabhuiyan/janjub-express/blob/main/Screenshots/janjub-shop.png)
+
+#### Categories
+![image](https://github.com/jabhuiyan/janjub-express/blob/main/Screenshots/janjub-categories.png)
+
+#### Products page
+![image](https://github.com/jabhuiyan/janjub-express/blob/main/Screenshots/janjub-product.png)
+
+#### Cart
+![image](https://github.com/jabhuiyan/janjub-express/blob/main/Screenshots/janjub-cart.png)
+
+#### Checkout
+![image](https://github.com/jabhuiyan/janjub-express/blob/main/Screenshots/janjub-checkout.png)
+
+---------------
+
 Core features:
 
 - [Pre-configured Payload Config](#how-it-works)
